@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi, I'm Josmy Faure 👋
 
-<!--
-**joslefaure/joslefaure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineer @ Google**  
+**PhD Student @ National Taiwan University**  
+*Machine Learning | Video Understanding Enthusiast*
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🎓 Pursuing my PhD at NTU, advancing the frontiers of video understanding and machine learning.
+- 👨‍💻 Building impactful software at Google.
+- 📚 Avid reader of non-fiction, always looking for new perspectives.
+- 🏋️‍♂️ Gym enthusiast—lifting both weights and ideas!
+
+---
+
+## 🔥 Featured Projects
+
+- [**HERMES** (ICCV'25)](https://github.com/joslefaure/HERMES)  
+  *Innovative research in video understanding presented at ICCV 2025.*
+
+- [**HIT** (WACV'23)](https://github.com/joslefaure/HIT)  
+  *Exploring new horizons in machine learning, showcased at WACV 2023.*
+
+---
+
+## 🛠️ Skills
+
+- Machine Learning
+- Video Understanding
+- Research & Development
+
+---
+
+## 🌐 Connect with Me
+
+- 🌍 [Portfolio Website](https://joslefaure.github.io)
+- 💼 [LinkedIn](https://www.linkedin.com/in/gueter-josmy-faure-a691bb113)
+
+---
+
+<!-- Fun minimalist divider -->
+<p align="center">🌱 Always learning. Always lifting. 📈</p>
